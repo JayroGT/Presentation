@@ -1,0 +1,22 @@
+/* Footer.module.css */
+.footer {
+    background: linear-gradient(#f39c12, rgba(0, 0, 0, 0.972))
+  }
+  
+  .footer-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer-nav a {
+    margin: 0 10px; /* Espacio entre los enlaces */
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer-content {
+    text-align: center;
+    color: white;
+  }
+  

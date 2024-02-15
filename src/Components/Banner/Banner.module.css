@@ -1,0 +1,24 @@
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.ContainerImagen {
+  width: 100%;
+  height: 40vh;
+}
+
+.ContainerBanner {
+  position: relative;
+  width: 100%;
+}
+
+.ContainerTexto {
+  width: min(100%, 120rem);
+  margin: 0 auto;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  top: 5rem;
+}

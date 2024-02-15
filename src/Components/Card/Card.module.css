@@ -1,0 +1,39 @@
+.ContainerCard {
+  border: 1px solid #c1c1c1;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  width: 15rem;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.ContainerImagen {
+  height: 10rem;
+}
+
+.CardTitle {
+  font-size: 1rem;
+  text-transform: uppercase;
+  color: #333;
+  font-weight: bold;
+  font-style: normal;
+  padding: 1rem;
+}
+
+.CardPrice {
+  font-size: 2rem;
+  color: #333;
+  margin: 1rem 0;
+}
+
+.CardButton {
+  background-color: #f39c12;
+  border: none;
+  padding: 1rem 3rem;
+  border-radius: 5rem;
+  cursor: pointer;
+}
+
+.CardButton:hover {
+  background-color: #ffb845;
+}
